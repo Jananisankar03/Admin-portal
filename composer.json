@@ -1,0 +1,17 @@
+{
+    "name": "dell/new-pro",
+    "autoload": {
+        "psr-4": {
+            "Dell\\NewPro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jananisankar03",
+            "email": "jananisankar010@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.0"
+    }
+}
